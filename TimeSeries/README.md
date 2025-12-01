@@ -1,1 +1,1 @@
-
+Since it was a time-constrained assignment (short release), I was not able to go as in depth as I wanted to. But I learnt a great deal doing this assignment, and this has prompted me to go deeper in an advanced class I'm taking in my third year. 
