@@ -1,2 +1,2 @@
 # Portfolio
-Contains the work done as part of my degree and passion projects 
+Contains some of the work done as part of my degree and passion projects 
