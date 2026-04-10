@@ -10,3 +10,7 @@ shiny::runApp()
 
 ## Live app
 https://your-account.shinyapps.io/Shiny_App_STAT3926
+
+## Acknowledgement
+Collaborated with 
+[@K0sin ](https://github.com/K0sin ) — collaboration and consultation
